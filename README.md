@@ -14,4 +14,4 @@
 :baby: Pai do Isaac<br>
 :couple_with_heart: Esposo da Pri :)
 
-Obrigada pela visita!
+Obrigado pela visita!
