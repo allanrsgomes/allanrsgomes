@@ -1,10 +1,9 @@
 ## Hello people 👋
 
-- 🔭  I’m currently working on @tigrupodimed.
-- 🌱  I’m currently learning Angular e React.
-- 👯  I’m looking to collaborate on some projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Web Developer 😄
+
+####📫 
+
+🔭  I’m currently working on @tigrupodimed.
+🌱  I’m currently learning Angular e React.
+👯  I’m looking to collaborate on some projects.
