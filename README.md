@@ -1,12 +1,17 @@
-## Hello people 👋
+### Olá! Sou Allan 👋
 
-### Web Developer 😄
+:computer: Desenvolvedor Web :house: Brasileiro :earth_americas: Porto Alegre :airplane: Brasil
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/allanrsgomes/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.linkedin.com/in/allanrsgomes/) 
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/allanrsgomes)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/allanrsgomes) 
+### Encontre-me por aqui :earth_americas:
 
-- 💻  I’m currently working on @tigrupodimed.
-- 🌱  I’m currently learning Angular e React.
-- 👯  I’m looking to collaborate on some projects.
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allanrsgomes)](https://www.linkedin.com/in/allanrsgomes)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/allanrsgomes/)](https://www.instagram.com/allanrsgomes)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lari.santosazevedo@gmail.com)](mailto:lari.santosazevedo@gmail.com)
+
+:computer: Atualmente trabalho na @tigrupodimed<br>
+📚 Estudando na Ulbra de Canoas<br>
+:mortar_board: Quase graduado em Ciências da Computação<br>
+:baby: Pai do Isaac<br>
+:couple_with_heart: Esposo da Pri :)
+
+Obrigada pela visita!
