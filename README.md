@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Allan Gomes</h1>
 
-Sênior Web Developer :computer:
+Pleno Web Developer :computer:
 I'm from Porto Alegre, but exploring Florianópolis ✈️
 
 ## Find me 🌎
