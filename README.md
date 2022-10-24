@@ -23,18 +23,3 @@ Desenvolvedor Web :computer: Gaúcho de Porto Alegre ✈️ Brasileiro 🇧🇷
 ![alt text](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
 ![alt text](https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=react&logoColor=white)
 ![alt text](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-<table  align="left">
-
-<row>
-
-<td>
-
-<!-- Card -->
-
-<img  height='172'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=allanrsgomes&layout=compact&theme=react'></td><td><img  height='172'  src='https://github-readme-stats.vercel.app/api?username=allanrsgomes&show_icons=true&theme=react'>
-</td>
-
-</row>
-
-</table>
